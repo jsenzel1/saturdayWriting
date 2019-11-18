@@ -1,2 +1,2 @@
 # saturdayWriting
-rambling writings on saturdays
+stream of consciousness writings on saturdays
