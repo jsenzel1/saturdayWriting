@@ -1,6 +1,6 @@
 #week 5 thoughts on europe?
 
-I've been living in Greece now for about 3 and a half months coming from the US. These days I have a lot of thoughts about Europe, but of course I'm not sure if the things I'm thinking are so much about Europe or more specifically about Greece, or even just about Athens or just about the people I'm hanging around. Anyway I suppose as this is realy a stream of conciousness project I don't have to worry about being too accurate or thorough
+I've been living in Greece now for about 3 and a half months coming from the US. These days I have a lot of thoughts about Europe, but of course I'm not sure if the things I'm thinking are so much about Europe or more specifically about Greece, or even just about Athens or just about the people I'm hanging around. Anyway I suppose as this is really a stream of consciousness project I don't have to worry about being too accurate or thorough
 
 The culture I see here is full of contradictions. It's very different from America and at the same time it's so similar. It's cleaner and it's dirtier. More progressive and less politically correct. More gay and more machismo. More open and more closed off. What I see now is the mixture of an extremely progressive European view of the world, with a very classical European view. 
 
