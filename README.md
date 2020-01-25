@@ -19,3 +19,5 @@ A stream of consciousness writing experiment. On Saturdays (or Sundays sometimes
 ### [8 - On making stupid projects ](./8-On-making-stupid-projects-.md)
 
 ### [9 - On "What am i going to do with my life?" and the American midwest](./9-On-What-am-i-going-to-do-with-my-life-and-the-American-midwest.md)
+
+### [10 - On New Theory of Social Time Relativity](10-On-New-Theory-of-Social-Time-Relatively.md)
