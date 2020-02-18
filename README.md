@@ -21,3 +21,5 @@ A stream of consciousness writing experiment. On Saturdays (or Sundays sometimes
 ### [9 - On "What am i going to do with my life?" and the American midwest](./9-On-What-am-i-going-to-do-with-my-life-and-the-American-midwest.md)
 
 ### [10 - On New Theory of Social Time Relativity](10-On-New-Theory-of-Social-Time-Relatively.md)
+
+### [11 - On Urbanity and Rurality](11-On-Urbanity-And-Rurality.md)
