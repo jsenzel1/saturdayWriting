@@ -1,5 +1,6 @@
 # saturdayWriting
-A stream of consciousness writing experiment. On Saturdays (or Sundays sometimes). I write something stream of consciousness. It's only if and when I feel like it (I made this repo to organize the writings I already found myself doing on saturdays, not necesarily to force myself to do something every week)
+### A stream of consciousness writing experiment. On Saturdays (or Sundays sometimes), I write something stream of consciousness. (It's only if and when I feel like it)
+---
 
 
 ### [1 - On Life and Text](./1-On-Life-and-Text.md)
@@ -23,3 +24,7 @@ A stream of consciousness writing experiment. On Saturdays (or Sundays sometimes
 ### [10 - On New Theory of Social Time Relativity](10-On-New-Theory-of-Social-Time-Relatively.md)
 
 ### [11 - On Urbanity and Rurality](11-On-Urbanity-And-Rurality.md)
+
+### [12 - On the thing that shall not be named](12-On-the-Thing-That-Shall-Not-be-Named.md)
+
+
